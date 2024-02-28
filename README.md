@@ -11,7 +11,12 @@
 - 🔭 I am currently working on building a portfolio
 - 🌱 I'm learning Java
 - 📫 How to reach me: ...
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelVenancio&layout=compact&langs_count=7&theme=dracula"/>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelVenancio&layout=compact&langs_count=7&theme=dracula"/>
   
   <br>
   <br>
