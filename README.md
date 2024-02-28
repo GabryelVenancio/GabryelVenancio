@@ -17,7 +17,7 @@
   <br>
 
   
- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelVenancio&layout=compact&langs_count=7&theme=dracula"/>
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelVenancio&layout=compact&langs_count=7&theme=dracula"/>
   
   <br>
   <br>
