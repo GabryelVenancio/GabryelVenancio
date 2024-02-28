@@ -25,6 +25,7 @@
     <img align="center" alt="Rafa-CSS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Rafa-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  
 </div>
   
