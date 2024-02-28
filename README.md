@@ -48,37 +48,4 @@
 
 <br>
 
-<div align="center">
-  <h2>Workstation</h2>
-</div>
 
-
-<div align="center">
-  <p>I use two operating systems (dual boot)</p>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</div>
-
-<br>
-
-<div align="center">
-  <p>Games side of the force</p> 
-  <a href="https://steamcommunity.com/id/n1kolau/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<h2 align="center">Contribution</h2>
-
-<p align="center">
-  <img src="https://github.com/NicolasSSantos/NicolasSSantos/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
