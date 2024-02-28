@@ -1,13 +1,16 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=9C4E6A&center=true&width=1080&height=400&lines=Olá!!+seja+bem+vindo(a)+ao+meu+perfil">
+</p align="center">
+<img align="right" height="200" src="https://media.giphy.com/media/jdOm0IddQuJP2/giphy.gif" />
+<p align="center">
 
-<div align="center" valign="top">
-  <a href="https://github.com/GabryelVenancio">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=GabryelVenancio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br>
-  <br>
-  <br>
-  <br>
+<div>
+<h3>👋 Hello! Welcome to my Github profile.</h2>
+<h3>My name is Gabryel Venancio</h2>
+</div>
+
+- 🔭 I am currently working on building a portfolio
+- 🌱 I'm learning Java
+- 📫 How to reach me: ...
   <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelVenancio&layout=compact&langs_count=7&theme=dracula"/>
   
   <br>
