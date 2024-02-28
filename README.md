@@ -8,7 +8,7 @@
   <br>
   <br>
   <br>
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelVenancio&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelVenâncio&layout=compact&langs_count=7&theme=dracula"/>
   
   <br>
   <br>
