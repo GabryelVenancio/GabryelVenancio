@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=9C4E6A&center=true&width=1080&height=400&lines=Olá!!+seja+bem+vindo(a)+ao+meu+perfil+&#128105;&#8205;&#129456;&#65039;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=9C4E6A&center=true&width=1080&height=400&lines=Olá!!+seja+bem+vindo(a)+ao+meu+perfil">
 
 <div align="center" valign="top">
   <a href="https://github.com/GabryelVenancio">
