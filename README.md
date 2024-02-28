@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/gabryel-venancio-cleffs-do-nascimento-355673218/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:gabrielvenanciocleffs2gmail.com" target="_blank">
+  <a href="mailto:gabrielvenanciocleffs@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
